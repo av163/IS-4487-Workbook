@@ -1,2 +1,2 @@
-# IS-4460-Project
-Project for IS 4460 
+# IS-4487-LAB/Assignments
+Labs and Assignments for Business Analytics 
